@@ -1,5 +1,7 @@
 # 自审 · Self-Review Skill
 
+[![skills.sh](https://skills.sh/b/xiamenhewei/self-review-skill)](https://skills.sh/xiamenhewei/self-review-skill)
+
 [中文](#中文) ｜ [English](#english)
 
 ---
